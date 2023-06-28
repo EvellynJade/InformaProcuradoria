@@ -29,7 +29,7 @@ export const AuthProvider = ({ children }) => {
 
         localStorage.setItem("user", JSON.stringify(loggerUser));
 
-        if (password === "secret") {
+        if (email==="informaProcuradoria@gmail.com" && password === "secret") {
             setUser (loggerUser)
             navigate("/home");
         }

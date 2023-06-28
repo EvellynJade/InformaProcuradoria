@@ -10,6 +10,7 @@ Seja bem vindo(a) ao Informa Procuradoria. Esse portal serve para te auxiliarmos
 - Clonar o repositório
 - Na cmd do repositório digitar: "npm install" ( Instalar suas dependências )
 - Na cmd do repositório digitar: "npm start"( Iniciar o servidor de desenvolvimento e executar )
+- Fazer login com o email "informaProcuradoria@gmail.com" e senha "secret"
 
 #FERRAMENTAS UTILIZADAS
 - React.js
