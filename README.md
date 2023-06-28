@@ -1,5 +1,5 @@
 #INFORMA PROCURADORIA
-Seja bem vindo(a) ao Informa Procuradoria. Esse portal serve para te auxiliarmos e coletarmos informações dos principais portais jurídicos de Sergipe.
+- Seja bem vindo(a) ao Informa Procuradoria. Esse portal serve para te auxiliarmos e coletarmos informações dos principais portais jurídicos de Sergipe.
 
 #SOBRE O REPOSITÓRIO
 - Sistema de login com autenticação de email e senha.
